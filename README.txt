@@ -1,0 +1,1 @@
+gm2 is compiled for run 1 "FieldPlainRootOutput_0XXXX_tier1.root" files
